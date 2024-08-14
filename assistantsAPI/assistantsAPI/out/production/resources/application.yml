@@ -1,0 +1,9 @@
+spring:
+
+google:
+  id: songsungwoo9200@gmail.com
+  #password: jqgvkqynrwkqyftx
+  password: txysahembwhadgnw
+
+fastapi:
+  url: http://localhost:8000
